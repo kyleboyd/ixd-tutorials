@@ -115,9 +115,9 @@ This is a look to google.  [Click Here.](http://www.google.com)
 
 We love a good image. Even in Markdown.
 
-<pre>![Website Logo](/images/logo.png)</pre>
+<pre>![Website Logo](http://worldartsme.com/images/web-logo-clipart-1.jpg)</pre>
 
-![Website Logo](/images/logo.png)
+![Website Logo](http://worldartsme.com/images/web-logo-clipart-1.jpg)
 
 ---
 
