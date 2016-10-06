@@ -63,6 +63,7 @@ _You **can** combine them_
 
 ---
 
+
 ###Lists
 Get it together with a good listomatic in Markdown.
 
@@ -82,6 +83,7 @@ Get it together with a good listomatic in Markdown.
 
 ---
 
+
 ##### Unordered
 <pre>+ Item 1
 + Item 2
@@ -97,6 +99,7 @@ Get it together with a good listomatic in Markdown.
 
 ---
 
+
 ### Links
 
 The back bone of the web.  Simple in Markdown.
@@ -107,6 +110,7 @@ This is a look to google.  [Click Here.](http://www.google.com)
 
 ---
 
+
 ### Images 
 
 We love a good image. Even in Markdown.
@@ -116,6 +120,7 @@ We love a good image. Even in Markdown.
 ![Website Logo](/images/logo.png)
 
 ---
+
 
 ### Blockquotes
 
@@ -129,11 +134,13 @@ As John F Kennedy said:
 
 ---
 
+
 ### Tables 
 
 We use tables but not for layout of course - that would be a crime against humanity.  Still useful for data.  
 
 This is a table showing how many apples and oranges Mavis, Daisy and Sally had.  RocknRoll.
+
 
 <pre>
 Name | Apples | Oranges
@@ -142,6 +149,8 @@ Mavis | Three | Two
 Daisy | One | Four
 Mavis | Four | Two
 </pre>
+
+
 
 Name | Apples | Oranges
 ------------ | ------------- | -------------
