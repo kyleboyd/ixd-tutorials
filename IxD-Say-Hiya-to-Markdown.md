@@ -142,6 +142,7 @@ We use tables but not for layout of course - that would be a crime against human
 This is a table showing how many apples and oranges Mavis, Daisy and Sally had.  RocknRoll.
 
 
+
 <pre>
 Name | Apples | Oranges
 ------------ | ------------- | -------------
