@@ -53,13 +53,7 @@ __This will also be bold__</pre>
 
 <pre>_You **can** combine them_</pre>
 
-*This text will be italic*
-_This will also be italic_
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
 
 ---
 
@@ -67,14 +61,14 @@ _You **can** combine them_
 ###Lists
 Get it together with a good listomatic in Markdown.
 
-####Ordered
+#### Ordered
 
   <pre>1. Item 1
   2. Item 2
 	 	1.  Item 2a
 		2. Item 2b
 3. Item 3</pre>
----
+
 1. Item 1
 2. Item 2
 	1.  Item 2a
@@ -141,8 +135,6 @@ As John F Kennedy said:
 We use tables but not for layout of course - that would be a crime against humanity.  Still useful for data.  
 
 This is a table showing how many apples and oranges Mavis, Daisy and Sally had.  RocknRoll.
-
-
 
 
 
