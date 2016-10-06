@@ -74,7 +74,7 @@ Get it together with a good listomatic in Markdown.
 	 	1.  Item 2a
 		2. Item 2b
 3. Item 3</pre>
-
+---
 1. Item 1
 2. Item 2
 	1.  Item 2a
