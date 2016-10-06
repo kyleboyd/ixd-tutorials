@@ -41,7 +41,7 @@ Headers look like this.
 
 ---
 
-### Emphasis
+###Emphasis
 
 Emphasis can be completed in a few ways.
 
@@ -63,10 +63,10 @@ _You **can** combine them_
 
 ---
 
-### Lists
+###Lists
 Get it together with a good listomatic in Markdown.
 
-##### Ordered
+#####Ordered
 
   <pre>1. Item 1
   2. Item 2
