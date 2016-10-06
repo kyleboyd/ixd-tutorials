@@ -68,7 +68,8 @@ _You **can** combine them_
 
 Get it together with a good listomatic in Markdown.
 
-#### Ordered
+Ordered
+======================================
 
   <pre>1. Item 1
   2. Item 2
