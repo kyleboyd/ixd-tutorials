@@ -45,13 +45,19 @@ Headers look like this.
 
 Emphasis can be completed in a few ways.
 
-<pre>*This text will be italic*
-_This will also be italic_</pre>
+<pre>
+*This text will be italic*
+_This will also be italic_
+</pre>
 
-<pre>**This text will be bold**
-__This will also be bold__</pre>
+<pre>
+**This text will be bold**
+__This will also be bold__
+</pre>
 
-<pre>_You **can** combine them_</pre>
+<pre>
+_You **can** combine them_
+</pre>
 
 *This text will be italic*
 _This will also be italic_
