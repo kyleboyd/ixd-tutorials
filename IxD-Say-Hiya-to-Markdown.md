@@ -76,7 +76,7 @@ Get it together with a good listomatic in Markdown.
 
 #### Ordered
 
-  <pre>
+<pre>
   1. Item 1
   2. Item 2
 	 	1.  Item 2a
@@ -138,8 +138,10 @@ We love a good image. Even in Markdown.
 
 To make ourselves look smart.  Use blockquotes.
 
-<pre>As John F Kennedy said:
-> We must use time as a tool, not as a couch. </pre>
+<pre>
+As John F Kennedy said:
+> We must use time as a tool, not as a couch. 
+</pre>
 
 As John F Kennedy said:
 
