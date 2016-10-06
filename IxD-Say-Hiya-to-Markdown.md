@@ -53,12 +53,19 @@ __This will also be bold__</pre>
 
 <pre>_You **can** combine them_</pre>
 
+*This text will be italic*
+_This will also be italic_
 
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
 
 ---
 
 
 ###Lists
+
 Get it together with a good listomatic in Markdown.
 
 #### Ordered
@@ -79,6 +86,7 @@ Get it together with a good listomatic in Markdown.
 
 
 #### Unordered
+
 <pre>+ Item 1
 + Item 2
 	+ Item 2.1
