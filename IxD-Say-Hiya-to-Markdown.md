@@ -67,7 +67,7 @@ _You **can** combine them_
 ###Lists
 Get it together with a good listomatic in Markdown.
 
-#####Ordered
+#### Ordered
 
   <pre>1. Item 1
   2. Item 2
@@ -84,7 +84,7 @@ Get it together with a good listomatic in Markdown.
 ---
 
 
-##### Unordered
+#### Unordered
 <pre>+ Item 1
 + Item 2
 	+ Item 2.1
