@@ -15,7 +15,7 @@ This is a short tutorial on how to use web typography - for this example we will
 We are dong to use Google Fonts web service to present a quote.  This quote is by Marshall McLuhan.  If you havent read his book the medium is the message.  You really should.
 
 > We shape our tools and thereafter our tools shape us.
-Marshall McLuhan.  
+-- Marshall McLuhan.  
 
 ### Step 1
 
