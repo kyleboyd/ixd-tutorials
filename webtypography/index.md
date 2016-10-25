@@ -1,6 +1,6 @@
 # Web Typography Guide 101
 
-Web typograpgy has changed the way we desig on the web.  Back in the nineties and early noughties the only way to use the type on your website was to use the typefaces which were supplied on your computer.  The standard players were  Arial, Courier New, Times New Roman, Comic Sans, Impact, Georgia, Trebuchet, Webdings and Verdana etc.  These were known as websafe fonts.
+Web Typography has changed the way we desig on the web.  Back in the nineties and early noughties the only way to use the type on your website was to use the typefaces which were supplied on your computer.  The standard players were  Arial, Courier New, Times New Roman, Comic Sans, Impact, Georgia, Trebuchet, Webdings and Verdana etc.  These were known as websafe fonts.
 
 This was ok but it meant your design was very limited and you couldnt use custom typefaces.  So everything began to look the same.
 
