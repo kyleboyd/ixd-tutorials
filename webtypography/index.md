@@ -15,13 +15,17 @@ This is a short tutorial on how to use web typography - for this example we will
 We are dong to use Google Fonts web service to present a quote.  This quote is by Marshall McLuhan.  If you havent read his book the medium is the message.  You really should.
 
 > We shape our tools and thereafter our tools shape us.
--- Marshall McLuhan.  
+Marshall McLuhan.  
 
 ### Step 1
 
 Open a new HTML doc.  
+![HTML File](https://github.com/kyleboyd/ixd-tutorials/blob/master/webtypography/images/Screen%20Shot%202016-10-25%20at%2012.30.59.png?raw=true)
 
 Write the quote in some markup.  ie H1 and Cite.  
+![H1 and Cite Markup](https://github.com/kyleboyd/ixd-tutorials/blob/master/webtypography/images/Screen%20Shot%202016-10-25%20at%2011.37.50.png?raw=true)
+
+![Screen Shot 2016-10-25 at 11.37.56.png](https://github.com/kyleboyd/ixd-tutorials/blob/master/webtypography/images/Screen%20Shot%202016-10-25%20at%2011.37.56.png?raw=true)
 
 Looks so amazing right now.
 
@@ -29,18 +33,30 @@ Looks so amazing right now.
 
 Go to Google Fonts and pick your typeface which you want to use.  I went for Kaushan Script.  
 
+![Kaushan Script](https://github.com/kyleboyd/ixd-tutorials/blob/master/webtypography/images/Screen%20Shot%202016-10-25%20at%2011.41.22.png?raw=true)
+
 Select the font you want. You can have multiple fonts if you want.
 
-Then add it to your site using the seps supplied.  
+Then add it to your site using the steps supplied.  
 
-- Place style sheet link in header
-- Add h1 styles to your html page (can be internal or external css)
+![Steps to Add Type](https://github.com/kyleboyd/ixd-tutorials/blob/master/webtypography/images/Screen%20Shot%202016-10-25%20at%2011.41.53.png?raw=true)
+
+Place style sheet link in header and add h1 styles to your html page (can be internal or external css)
+
+![Link style in header](https://github.com/kyleboyd/ixd-tutorials/blob/master/webtypography/images/Screen%20Shot%202016-10-25%20at%2011.43.40.png?raw=true)
+
 
 ### Step 3
 
-Thats it.  Once you know look at your page the typeface should be displayed on your page.  You can add more custom fonts to other elements like h2, p and cite.  I added open sans to the cite element.
+Thats it.  Once you know look at your page the typeface should be displayed on your page.  
+
+![Tada](https://github.com/kyleboyd/ixd-tutorials/blob/master/webtypography/images/Screen%20Shot%202016-10-25%20at%2011.44.05.png?raw=true)
+
+You can add more custom fonts to other elements like h2, p and cite.  I added open sans to the cite element.
 
 You can the style this up with regular css.  
+
+![Completed example](https://github.com/kyleboyd/ixd-tutorials/blob/master/webtypography/images/Screen%20Shot%202016-10-25%20at%2012.38.01.png?raw=true)
 
 Bangarang.  
 
