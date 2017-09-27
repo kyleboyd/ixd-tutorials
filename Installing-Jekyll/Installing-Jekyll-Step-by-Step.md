@@ -1,4 +1,4 @@
-## Installing Jekyll
+# Installing Jekyll
 
 In order to install Jekyll on your Mac you need to install a couple of things first.  One is Homebrew, Ruby and then Jekyll.  
 
