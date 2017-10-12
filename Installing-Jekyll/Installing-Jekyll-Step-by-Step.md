@@ -52,7 +52,7 @@ Some crazy Matrix type stuff should begin to happen.  Don't worry this is comple
 
 #### 6. Install Jekyll: Use this command in terminal
 
-`sudo gem install jekyll`
+`sudo gem install jekyll bundler`
 
 ![Install Jekyll](img/jekyll.png)
 
