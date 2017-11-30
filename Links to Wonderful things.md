@@ -37,8 +37,7 @@ Some tasty resources from the Internet.
 + [Stamen Maps](http://maps.stamen.com/#watercolor/12/37.7706/-122.3782)
 + [Leaflet JS](http://leafletjs.com/examples/quick-start/)
 
-
-#### Tables for Data
+#### Tables for Data
 + [Table Saw](https://github.com/filamentgroup/tablesaw)
 + [Pure CSS](https://purecss.io/tables/)
 + [Materialize CSS Tables](http://materializecss.com/table.html)
