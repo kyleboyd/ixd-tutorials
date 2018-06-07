@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <meta charset="utf-8">        
+        <meta name="author" content="CHANGE-ME">
+        <meta name="description" content="CHANGE-ME">
+        <script src="https://aframe.io/releases/0.8.0/aframe.min.js"></script>
+        <style>
+        body{
+            background-color:black;
+                }
+        
+        </style>
+        
+    </head>
+
+    <body>    
+<a-scene>
+  <a-assets>
+      <!-- SUN -->
+    <img id="sunTexture" src="https://img.gs/bbdkhfbzkk/stretch/https://www.nasa.gov/sites/default/files/images/700328main_20121014_003615_flat.jpg" crossorigin="anonymous" />
+
+    <img id="mercuryTexture" src="https://img.gs/bbdkhfbzkk/stretch/http://img00.deviantart.net/bfb2/i/2016/260/1/2/mercury_texture_by_planetkid32-dahqfrc.png" crossorigin="anonymous" />
+
+    <img id="venusTexture" src="https://img.gs/bbdkhfbzkk/stretch/http://maps.jpl.nasa.gov/pix/ven0aaa2.jpg" crossorigin="anonymous" />
+
+    <img id="earthTexture" src="https://img.gs/bbdkhfbzkk/stretch/http://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57730/land_ocean_ice_8192.png" crossorigin="anonymous" />
+    
+    <img id="moonTexture" src="https://img.gs/bbdkhfbzkk/stretch/http://forum.celestialmatters.org/userpix/4_moon_global_1k_1.jpg" crossorigin="anonymous" />
+
+
+    <img id="marsTexture" src="https://img.gs/bbdkhfbzkk/stretch/http://solarviews.com/raw/venus/venmap.gif" crossorigin="anonymous" />
+    
+    <img id="jupiterTexture" src="https://img.gs/bbdkhfbzkk/stretch/http://orsa.sourceforge.net/textures/jupiter-1k.png" crossorigin="anonymous" />
+    
+    <img id="saturnTexture" src="https://img.gs/bbdkhfbzkk/stretch/http://orig13.deviantart.net/b322/f/2014/306/2/4/saturn_texture__3_2k____storm_by_hellcatf6f-d84xlbn.png" crossorigin="anonymous" />
+    
+    <img id="uranusTexture" src="https://img.gs/bbdkhfbzkk/stretch/https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/b9a986a8f99e18c42965242ca4374d9e/original.png" crossorigin="anonymous" />
+    
+    <img id="neptuneTexture" src="https://img.gs/bbdkhfbzkk/stretch/https://csdrive.srru.ac.th/55122420113/texture/neptune.png" crossorigin="anonymous" />
+  </a-assets>
+
+  <!-- SUN -->
+  <a-sphere color="#fff" src="#sunTexture" radius="43228.8" position="0 1.5 -160000">
+    <a-animation attribute="rotation" dur="61200" easing="linear" to="0 360 0" repeat="indefinite"></a-animation>
+  </a-sphere>
+
+  <!-- VENUS -->
+  <a-sphere color="#FFF" radius=".03760" position=".2 1.5 -2" src="#venusTexture">
+    <a-animation attribute="rotation" dur="583200" easing="linear" to="0 360 0" repeat="indefinite"></a-animation>
+  </a-sphere>
+
+  <!-- EARTH -->
+  <a-sphere color="#FFF" radius="0.03959" position="0 1.5 -2" src="#earthTexture">
+    <a-animation attribute="rotation" dur="2400" easing="linear" to="0 360 0" repeat="indefinite"></a-animation>
+  </a-sphere>
+  
+  <!-- MOON -->
+  <a-entity position="0 1.5 -2" rotation='0 90 0 '>
+    <a-sphere color="#FFF" radius=".01079" position="0 .1 0" src="#moonTexture">
+      <a-animation attribute="rotation" dur="64800" easing="linear" to="0 360 0" repeat="indefinite"></a-animation>
+    </a-sphere>
+    
+      <a-animation attribute='rotation' dur='3000' fill='forwards' to='360 0 0' repeat='indefinite' easing='linear'></a-animation>
+    
+  </a-entity>
+  
+  <!-- MARS -->
+  <a-sphere color="#FFF" radius=".02106" position=".6 1.5 -2" src="#marsTexture">
+    <a-animation attribute="rotation" dur="2500" easing="linear" to="0 360 0" repeat="indefinite"></a-animation>
+  </a-sphere>
+  
+  <!-- JUPITER -->
+  <a-sphere color="#FFF" radius=".43441" position="1.2 1.5 -2" src="#jupiterTexture">
+    <a-animation attribute="rotation" dur="1000" easing="linear" to="0 360 0" repeat="indefinite"></a-animation>
+  </a-sphere>
+  
+  <!-- SATURN -->
+  <a-sphere color="#FFF" radius=".36184" position="2.2 1.5 -2" src="#saturnTexture">
+    <a-animation attribute="rotation" dur="1100" easing="linear" to="0 360 0" repeat="indefinite"></a-animation>
+  </a-sphere>
+  
+  <!-- URANUS -->
+  <a-sphere color="#FFF" radius=".15759" position="3 1.5 -2" src="#uranusTexture">
+    <a-animation attribute="rotation" dur="1700" easing="linear" to="0 360 0" repeat="indefinite"></a-animation>
+  </a-sphere>
+  
+
+  <!-- MOON LINE -->
+  <a-torus color="#FFF" arc="360" radius=".1" radius-tubular="0.00025" position="0 1.5 -2"></a-torus>
+
+</a-scene>        
+        
+     
+    </body>
+</html>
