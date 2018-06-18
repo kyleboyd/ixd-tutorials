@@ -33,7 +33,7 @@ Lets get cracking.
 
 	![Remix](https://www.dropbox.com/s/vyr4vc2uae9jwkq/Screenshot%202018-06-18%2011.34.11.png?raw=1)
 
-3. In the main environment window top-left you will see planets-template. Click the drop down list and change the title to the name of your group - it can be whatever you want.
+3. In the main environment window top-left you will see a name. Click the drop down list and change the title to the name of your group - it can be whatever you want.
 
 	![Change the name of the project to your own](https://www.dropbox.com/s/h059ytxq566o05o/Screenshot%202018-06-12%2020.24.17.png?raw=1)
 
@@ -125,10 +125,13 @@ Getting to the good stuff now.  We have added the images we need to create the p
 
 3. Find line 17 and type this:
 
-		`<a-scene>
-			</a-scene> `
+		<a-scene>
+		
+			</a-scene> 
 
-4. Inside the `<a-scene>`  type this: `<a-sky src="#starsTexture"></a-sky>`
+4. Inside the `<a-scene>`  type this: 
+
+		<a-sky src="#starsTexture"></a-sky>
 
 	The `<a-sky>` is a primitive.  The sky primitive adds a background color 	or 360° image to a scene. A sky is a large sphere with a color or texture	 	mapped to the inside.
 
@@ -144,13 +147,15 @@ Getting to the good stuff now.  We have added the images we need to create the p
 
 	Type this after `<a-sky>` but still within the `<a-scene>`.
 
-	What we are doing is telling Aframe to make a sphere on the screen, the 	radius is the size, the position is the position on the screen. The src id 	#earthTexture is telling Aframe which image to use from the assets - which 	we did earlier.
+   		<a-sphere radius=".43441" position="1.2 1.5 -2" src="#earthTexture">
+   
+    	</a-sphere>
+    	
+What we are doing is telling Aframe to make a sphere on the screen, the 	radius is the size, the position is the position on the screen. The src id 	#earthTexture is telling Aframe which image to use from the assets - which we did earlier.
 
-		<a-sphere radius=".43441" position="1.2 1.5 -2" src="#earthTexture"></a-sphere>
+After this have a look at progress with the 'Show Live' button.  You should have an earth.
 
-	After this have a look at progress with the 'Show Live' button.  You should have an earth.
-
-	But there is not much movement - we need rotation.  
+But there is not much movement - we need rotation.  
 
 2. Inside the `<a-sphere>` tags type this
 
@@ -195,9 +200,11 @@ Much like before we will create a sphere for the moon.  Just like the earth.
 
 ## How to View
 
-To view this you can use the 'Show Live' button.  Its even more awesomer if you view this on your phone with a Google Cardboard.  Go to a browser on your phone (Chrome or Safari) and type in the URL of your project - (this is at the top of your window and it begins with `https:// ` )
+To view this you can use the 'Show Live' button.  
 
-Then place your phone in a Google Cardboard and enjoy!
+Its even more awesomer if you view this on your phone with a Google Cardboard.  Go to a browser on your phone (Chrome or Safari) and type in the URL of your project - (this is at the top of your window and it begins with `https:// ` )
+
+Then place your phone in a Google Cardboard and enjoy! :)
 
 ---
 
