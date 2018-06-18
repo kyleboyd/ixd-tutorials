@@ -28,20 +28,24 @@ Lets get cracking.
 1. Please go to Glitch on a web browser.  [Click Here](https://goo.gl/nJh99a)
 
 	![Glitch environment](https://www.dropbox.com/s/6o0324j1407dr50/Screenshot%202018-06-12%2020.22.44.png?raw=1)
+	
+2. The first thing you must do is hit the button on the right hand side called 'Remix' this will setup an environment you can edit!
 
-2. In the main environment window top-left you will see planets-template. Click the drop down list and change the title to the name of your group - it can be whatever you want.
+	![Remix](https://www.dropbox.com/s/vyr4vc2uae9jwkq/Screenshot%202018-06-18%2011.34.11.png?dl=0)
+
+3. In the main environment window top-left you will see planets-template. Click the drop down list and change the title to the name of your group - it can be whatever you want.
 
 	![Change the name of the project to your own](https://www.dropbox.com/s/h059ytxq566o05o/Screenshot%202018-06-12%2020.24.17.png?raw=1)
 
 
-3. In your main environment window you will see lines with code written on them.  In line four you will see: `<title>Hello</title>`
+4. In your main environment window you will see lines with code written on them.  In line four you will see: `<title>Hello</title>`
 
 	Replace the hello with `<title>Planets VR YO!</title>`
 
 	You have now changed the title of your page.
 
 
-4. On the left menu you will see a list. One is called 'assets' click on that.  In here you will find some images.  We will be using these later. Go back to index.html.
+5. On the left menu you will see a list. One is called 'assets' click on that.  In here you will find some images.  We will be using these later. Go back to index.html.
 
 
 ---
