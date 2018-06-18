@@ -31,7 +31,7 @@ Lets get cracking.
 	
 2. The first thing you must do is hit the button on the right hand side called 'Remix' this will setup an environment you can edit!
 
-	![Remix](https://www.dropbox.com/s/vyr4vc2uae9jwkq/Screenshot%202018-06-18%2011.34.11.png?dl=0)
+	![Remix](https://www.dropbox.com/s/vyr4vc2uae9jwkq/Screenshot%202018-06-18%2011.34.11.png?raw=1)
 
 3. In the main environment window top-left you will see planets-template. Click the drop down list and change the title to the name of your group - it can be whatever you want.
 
