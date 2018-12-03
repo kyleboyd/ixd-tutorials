@@ -16,7 +16,7 @@ We will be looking at:
 
 ---
 
-1. Download HTML Site
+# 1. Download HTML Site
 
 This is a basic HTML Student Portfolio site. That has a Homepage, About and Contact.  Lets check it out. [Download this here.](https://www.dropbox.com/s/biyjju3piu6r817/HTML_Student.zip?dl=0)
 
@@ -26,7 +26,7 @@ Upzip this and have this on your desktop. This is just a simple HTML and CSS sit
 
 ---
 
-2. Preparing the Ground
+# 2. Preparing the Ground
 
 You need to install a clean version of kirby on your Local server.  We did this in class a few weeks ago.  This gives us a fresh site to work from.
 
@@ -44,7 +44,7 @@ Now your site will look like this
 
 You might need to clear your browswer history and cache to see changes.
 
-### Edit the site.txt file
+## Edit the site.txt file
 
 - Edit site.txt file - this alters the title etc.
 
@@ -62,7 +62,7 @@ You wil now see that your title has changed as well as your footer copyright tex
  
  ---
 
-3. Understanding Snippets
+# 3. Understanding Snippets
 
 To keep your code clean and maintainable you should avoid to repeat yourself at all cost. Snippets are a great way to store code, which is being reused in multiple templates.
 
@@ -182,7 +182,9 @@ We will add our new style sheet now.  Simply take the CSS folder from the studen
 
 ![Add the CSS file from the student website to the root of your new project](img/Screenshot%202018-12-03%2016.33.14.png)
 
-4. Template - Whats in a Template?
+---
+
+# 4. Template - Whats in a Template?
 
 Kirby's template engine is based on a mixture of simple PHP and HTML. You don't need to know PHP to get started. The methods which are being used to fetch data into your templates are very easy to understand. You should have basic HTML skills though.
 
@@ -254,7 +256,7 @@ Open home.php and about.php from the templates folder.
  
  Now we have created snippets and templates we can begin to work with the content.
  
- 5. Content is King
+# 5. Content is King
 
 We have focussed on snippets and templates so far.  Lets look at the content folder.
 
@@ -295,7 +297,7 @@ Each folder contains a text file, which stores all the data for the page. The na
 
 If there's no template for the text file, Kirby will use /site/templates/default.php to render the page.
 
-##### Fields
+### Fields
 
 With a traditional database-driven system you often run into the problem of being stuck with a predefined structure for your data.
 
@@ -537,7 +539,7 @@ This is the code for the contact page.
 
 Now all the content from our data files is being called to the pages via data fields.
 
-6. Finishing Up
+# 6. Finishing Up
 
 Now we have got most of the structure in place - we are using snippits, templates and data files.  
 
@@ -605,7 +607,7 @@ Now when we refresh the homepage it should look like this:
 
 ---
 
-7. The Panel
+# 7. The Panel
 
 This is the backend section which you can login to and then update the website via panel. Just add /panel to the end of your URL.
 
