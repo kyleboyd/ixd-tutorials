@@ -11,7 +11,7 @@ Come on and I will show you.
 
 ### Markdown Editor
 
-Its always easier to write markdown with an editor.  I recommend Typora.  Its Free and available for Mac and Windows.  [Get it here.]|(https://www.typora.io/)
+Its always easier to write markdown with an editor.  I recommend Typora.  Its Free and available for Mac and Windows.  [Get it here.](https://www.typora.io/)
 
 ---
 
